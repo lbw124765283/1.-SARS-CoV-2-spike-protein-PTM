@@ -35,4 +35,5 @@ We predict the binding affinity in biological complexes and identify the specifi
 ### 5. Results
 
 1) The PDB files are in the [Data File](/PDBfiles/).
+2) The PTM files are in the [Data File](/PDBfiles/).
 
